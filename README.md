@@ -11,7 +11,7 @@
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
-
+- Git
 - Python 3.12
 - Pip (gestionnaire de paquets Python)
 
