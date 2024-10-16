@@ -6,7 +6,7 @@
 
 - Choix de thèmes personnalisés.
 - Interface utilisateur simple et intuitive.
-- Optimiser son Fortnite
+- Optimiser son Fortnite.
 
 ## Prérequis
 
@@ -18,6 +18,8 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 ## Installation
 
 1. Clonez le dépôt sur votre machine locale :
-
+   ```bash
+   pip install customtkinter pillow requests
+   ```
    ```bash
    git clone https://github.com/slider-dev/Optimiseur-Fortnite.git
