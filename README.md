@@ -12,7 +12,7 @@
 
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
-- Python 3.x
+- Python 3.12
 - Pip (gestionnaire de paquets Python)
 
 ## Installation
