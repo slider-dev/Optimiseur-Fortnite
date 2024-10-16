@@ -4,9 +4,17 @@
 
 ## Fonctionnalités
 - Choix de thèmes personnalisés.
+
+
 ![Skyder](image_2024-10-16_205747321.png)
+
+
 - Interface utilisateur simple et intuitive.
+
+
 ![Skyder](image_2024-10-16_205747321.png)
+
+
 - Optimiser son Fortnite.
 
 ## Prérequis
