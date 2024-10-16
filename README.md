@@ -6,13 +6,13 @@
 - Choix de thèmes personnalisés.
 
 
-![Skyder](https://github.com/slider-dev/Optimiseur-Fortnite/blob/images/skyder.png?raw=true)
+![Skyder](https://github.com/slider-dev/Optimiseur-Fortnite/blob/images/skyder1.png?raw=true)
 
 
 - Interface utilisateur simple et intuitive.
 
 
-![Skyder](https://github.com/slider-dev/Optimiseur-Fortnite/blob/images/skyder1.png?raw=true)
+![Skyder](https://github.com/slider-dev/Optimiseur-Fortnite/blob/images/skyder.png?raw=true)
 
 
 - Optimiser son Fortnite.
