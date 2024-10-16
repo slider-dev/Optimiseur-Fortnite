@@ -20,4 +20,4 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 1. Clonez le dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/nom_du_depot.git
+   git clone https://github.com/slider-dev/Optimiseur-Fortnite.git
