@@ -6,7 +6,7 @@
 - Choix de thèmes personnalisés.
 
 
-![Skyder](tree/imagesSkyder.png)
+![Skyder](https://github.com/slider-dev/Optimiseur-Fortnite/blob/images/skyder.png?raw=true)
 
 
 - Interface utilisateur simple et intuitive.
