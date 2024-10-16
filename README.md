@@ -5,8 +5,8 @@
 ## Fonctionnalités
 
 - Choix de thèmes personnalisés.
-- Envoi d'un message à un salon Discord avec une mention d'utilisateur.
 - Interface utilisateur simple et intuitive.
+- Optimiser son Fortnite
 
 ## Prérequis
 
