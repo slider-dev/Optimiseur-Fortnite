@@ -12,7 +12,7 @@
 - Interface utilisateur simple et intuitive.
 
 
-![Skyder](image_2024-10-16_205747321.png)
+![Skyder](image_2024-10-16_210023610.png)
 
 
 - Optimiser son Fortnite.
