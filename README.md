@@ -6,13 +6,13 @@
 - Choix de thèmes personnalisés.
 
 
-![Skyder](image_2024-10-16_205747321.png)
+![Skyder](Skyder-Ftn1.png)
 
 
 - Interface utilisateur simple et intuitive.
 
 
-![Skyder](image_2024-10-16_210023610.png)
+![Skyder](Skyder-Ftn2.png)
 
 
 - Optimiser son Fortnite.
