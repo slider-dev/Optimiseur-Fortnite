@@ -3,7 +3,7 @@
 𝗦𝗸𝘆𝗱𝗲𝗿 𝗢𝗽𝘁𝗶𝗺𝗶𝘇 est une application Python utilisant la bibliothèque CustomTkinter pour créer une interface utilisateur moderne. Elle permet aux utilisateurs de choisir des thèmes et d'envoyer un message au webhook Discord.
 
 ## Fonctionnalités
-
+![Texte alternatif](skyder.png)
 - Choix de thèmes personnalisés.
 - Interface utilisateur simple et intuitive.
 - Optimiser son Fortnite.
